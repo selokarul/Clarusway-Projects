@@ -36,7 +36,7 @@
     margin: auto;
     padding-top: 10px;
   }
-  
+  #select,
   #name,
   #email,
   #number,
@@ -71,3 +71,4 @@
     background: white;
     color: red;
   }
+   
